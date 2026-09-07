@@ -1,0 +1,12 @@
+hass-owlet
+
+This project is a fork of "owlet" (https://github.com/ryanbdclark/owlet),
+originally created and maintained by Ryan Clark (@ryanbdclark), with
+contributions from the project's community (see CHANGELOG.md for the
+pre-fork history and credits).
+
+Copyright (c) Ryan Clark and contributors.
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Changes made after the fork are copyright their respective authors and
+are likewise licensed under the Apache License, Version 2.0.

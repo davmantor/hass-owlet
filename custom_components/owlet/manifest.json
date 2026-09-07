@@ -1,0 +1,15 @@
+{
+  "domain": "owlet",
+  "name": "Owlet Smart Sock",
+  "codeowners": [
+    "@davmantor"
+  ],
+  "config_flow": true,
+  "documentation":"https://github.com/davmantor/hass-owlet",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/davmantor/hass-owlet/issues",
+  "requirements": [
+    "pyowletapi==2025.4.1"
+  ],
+  "version": "2025.4.3"
+}
